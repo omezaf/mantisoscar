@@ -4,5 +4,10 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "8a0dbad0",
   "uiCommonVersion": "5.1.2",
-  "creatorId": "gdlomeza"
+  "creatorId": "gdlomeza",
+  "id": "mantisoscar",
+  "previewImageURL": "/previews/8a0dbad0-mantisoscar/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/omezaf/mantisoscar",
+  "creatorName": "Oscar Meza"
 }

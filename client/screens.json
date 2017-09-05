@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "mantisoscar",
-  "startScreen": "app.blank",
+  "startScreen": "app.login",
   "screens": [
     {
       "id": "blank",
